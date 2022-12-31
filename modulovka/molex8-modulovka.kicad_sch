@@ -5,9 +5,10 @@
   (paper "A5")
 
   (title_block
-    (title "MOLEX to screw-terminals PCB")
+    (title "MOLEX to screw-terminals PCB for modules connection")
     (date "2022-12-02")
     (rev "1.0")
+    (comment 4 "Silkscreen texts added compared to plain molex8 pcb.")
   )
 
   (lib_symbols
