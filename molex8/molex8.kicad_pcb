@@ -510,7 +510,7 @@
   (gr_line (start 123 81) (end 123 111) (layer "Edge.Cuts") (width 0.1) (tstamp 84544e8f-73ae-4ac8-8c98-a2973b10f063))
   (gr_arc (start 85 116) (mid 81.464466 114.535534) (end 80 111) (layer "Edge.Cuts") (width 0.1) (tstamp a178b408-a50d-43e7-a2d3-beaa61585f21))
   (gr_arc (start 123 111) (mid 121.535534 114.535534) (end 118 116) (layer "Edge.Cuts") (width 0.1) (tstamp f62803e3-5304-4787-aec7-5fa82b7ebde4))
-  (gr_text "molex-con-8\nv1.0" (at 118.8 95.6 90) (layer "F.SilkS") (tstamp 950dc753-3d73-40d1-8250-b642fad48946)
+  (gr_text "molex8\nv1.0" (at 118.8 95.6 90) (layer "F.SilkS") (tstamp 950dc753-3d73-40d1-8250-b642fad48946)
     (effects (font (size 2 2) (thickness 0.2)))
   )
   (gr_text "KMŽ Brno I\nJH 2022" (at 84.2 96 270) (layer "F.SilkS") (tstamp d2d2404e-c513-46b6-95db-a20813a9b713)
